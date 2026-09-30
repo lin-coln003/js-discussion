@@ -1,7 +1,7 @@
 //variables and data types
 
 let fullName = "Clyde Lincoln";
-const age = 22;
+const age = 19;
 var enrolled = true;
 
 console.log(fullName, typeof fullName);
